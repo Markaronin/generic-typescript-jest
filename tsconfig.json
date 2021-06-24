@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "noImplicitAny": true,
+        "noImplicitOverride": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noUnusedParameters": true,
+        "outDir": "dist",
+        "esModuleInterop": true
+    },
+    "include": ["src/**/*.ts"]
+}
